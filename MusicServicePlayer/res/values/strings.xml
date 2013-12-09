@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">音乐播放器</string>
+    <string name="action_add_music">刷新</string>
+    <string name="action_loop_play">列表循环播放</string>
+    <string name="action_random_play">随机播放</string>
+    <string name="action_order_play">顺序播放</string>
+    <string name="action_singleloop_play">单曲循环</string>
+    
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="alert_exit">再按一次返回键退出</string>
+    <string name="prev">上一首</string>
+    <string name="next">下一首</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="stop">停止</string>
+
+</resources>

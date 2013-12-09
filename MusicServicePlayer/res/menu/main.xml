@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_refresh_music"
+        android:icon="@drawable/ic_action_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_add_music"/>
+    <item
+        android:id="@+id/action_loop"
+        android:orderInCategory="101"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_loop_play"/>
+    <item
+        android:id="@+id/action_random"
+        android:orderInCategory="102"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_random_play"/>
+    <item
+        android:id="@+id/action_order"
+        android:orderInCategory="103"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_order_play"/>
+    
+    <item
+        android:id="@+id/action_singleloop"
+        android:orderInCategory="104"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_singleloop_play"/>
+    
+</menu>
